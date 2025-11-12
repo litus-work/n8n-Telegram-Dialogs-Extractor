@@ -1,3 +1,8 @@
+screenshot.jpg
+<p align="center">
+  <img src="screenshot.jpg" alt="n8n-flow cover" width="100%">
+</p>
+
 # 🧾 n8n Telegram Dialogs Extractor
 
 This powerful automation workflow for [n8n.io](https://n8n.io) allows you to **extract full text conversations from exported Telegram chats** (HTML + audio `.ogg` files) and convert them into clean, readable, and chronologically sorted JSON format. Ideal for journalists, researchers, or archiving your own history.
